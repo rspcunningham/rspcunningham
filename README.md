@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Robin
 
 <!--
 **rspcunningham/rspcunningham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📚 Mechatronic Systems Engineering and Medical Biophysics @ Western University <br/>
-📫 rspcunningham@gmail.com
+Mechatronic Systems Engineering and Medical Biophysics @ Western University <br/>
+rspcunningham@gmail.com
 
 ### My Stats:
 
