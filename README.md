@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📚 Mechatronic Systems Engineering and Medical Biophysics @ Western University <br/>
+📫 rspcunningham@gmail.com
+
+### My Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rspcunningham&theme=radical)
